@@ -3,7 +3,7 @@ package ch07;
 public class Car {
 	int tire = 4;
 	int door = 2;
-
+//갸아앙아아가닝사ㅣㅇㄹ한ㅁ
 	Car() {
 		System.out.println("Car 객체 생성");
 	}
